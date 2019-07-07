@@ -1,0 +1,11 @@
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\bin\Debug\WindowsPublishSubscribe.exe.config
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\bin\Debug\WindowsPublishSubscribe.exe
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\bin\Debug\WindowsPublishSubscribe.pdb
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\bin\Debug\NamedPipeWrapper.dll
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\bin\Debug\NamedPipeWrapper.pdb
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\obj\Debug\WindowsPublishSubscribe.csproj.CoreCompileInputs.cache
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\obj\Debug\WindowsPublishSubscribe.csproj.CopyComplete
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\obj\Debug\WindowsPublishSubscribe.exe
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\obj\Debug\WindowsPublishSubscribe.pdb
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\bin\Debug\NamedPipeWrapper.xml
+C:\TFS\Sitecore\Sitecore\WindowsPublishSubscribe\obj\Debug\WindowsPublishSubscribe.csprojAssemblyReference.cache
